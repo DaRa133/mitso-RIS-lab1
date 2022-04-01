@@ -1,0 +1,20 @@
+{
+  "name": "mitso-RIS-lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duplicateEncode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaRa133/mitso-RIS-lab1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaRa133/mitso-RIS-lab1/issues"
+  },
+  "homepage": "https://github.com/DaRa133/mitso-RIS-lab1#readme"
+}
