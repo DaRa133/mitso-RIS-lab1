@@ -20,3 +20,4 @@ duplicateEncode("recede") //  "()()()"
 duplicateEncode("Success") //  ")())())"
 duplicateEncode("(( @") // -"))(("
 duplicateEncode("))")
+duplicateEncode("((")
